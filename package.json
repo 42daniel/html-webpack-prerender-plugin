@@ -41,7 +41,7 @@
     "@babel/preset-react": "^7.7.4",
     "@hobbes7878/eslint-config": "^0.0.2",
     "babel-loader": "^8.0.6",
-    "eslint": "^6.8.0",
+    "eslint": "^9.32.0",
     "expect.js": "^0.3.1",
     "express": "^4.17.1",
     "html-webpack-plugin": "^4.3.0",
